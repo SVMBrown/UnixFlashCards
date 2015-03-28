@@ -1,0 +1,100 @@
+{
+	"deck": [
+		{
+			"prompt": "pwd",
+			"answer": "print working directory"
+		},
+		{
+			"prompt": "hostname",
+			"answer": "my computer's network name"
+		},
+		{
+			"prompt": "mkdir",
+			"answer": "make directory"
+		},
+		{
+			"prompt": "cd",
+			"answer": "change directory"
+		},
+		{
+			"prompt": "ls",
+			"answer": "list directory"
+		},
+		{
+			"prompt": "rmdir",
+			"answer": "remove directory"
+		},
+		{
+			"prompt": "pushd",
+			"answer": "push directory"
+		},
+		{
+			"prompt": "popd",
+			"answer": "pop directory"
+		},
+		{
+			"prompt": "cp",
+			"answer": "copy a file or directory"
+		},
+		{
+			"prompt": "mv",
+			"answer": "move a file or directory"
+		},
+		{
+			"prompt": "less",
+			"answer": "page through a file"
+		},
+		{
+			"prompt": "cat",
+			"answer": "print the whole file"
+		},
+		{
+			"prompt": "xargs",
+			"answer": "execute arguments"
+		},
+		{
+			"prompt": "find",
+			"answer": "find files"
+		},
+		{
+			"prompt": "grep",
+			"answer": "find things inside files"
+		},
+		{
+			"prompt": "man",
+			"answer": "read a manual page"
+		},
+		{
+			"prompt": "apropos",
+			"answer": "find what man page is appropriate"
+		},
+		{
+			"prompt": "env",
+			"answer": "look at your environment"
+		},
+		{
+			"prompt": "echo",
+			"answer": "print some arguments"
+		},
+		{
+			"prompt": "export",
+			"answer": "export/set a new environment variable"
+		},
+		{
+			"prompt": "exit",
+			"answer": "exit the shell"
+		},
+		{
+			"prompt": "sudo",
+			"answer": "DANGER! become super user root DANGER!"
+		},
+		{
+			"prompt": "chmod",
+			"answer": "change permission modifiers"
+		},
+		{
+			"prompt": "chown",
+			"answer": "change ownership"
+		}
+	]
+}
